@@ -9,6 +9,9 @@ This project is a starting point for a Flutter application.
 
 ![iphone-tic-tac-toe](https://user-images.githubusercontent.com/78371075/218260796-5b27d236-85f4-4384-b8b3-9a651ef866d9.png)
 
+![iphone-tic-tac-toe2](https://user-images.githubusercontent.com/78371075/218260863-832177d2-631a-40b6-84a3-ee08f913e6f3.png)
+
+
 
 
 
